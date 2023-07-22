@@ -1,5 +1,5 @@
-### Hi there 👋
-
+[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackkav)](https://github.com/anuraghazra/github-readme-stats)
+[![Jack's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jackkav)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jackkav/jackkav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
