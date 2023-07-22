@@ -1,5 +1,5 @@
-[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackkav&layout=compact&show=reviews)](https://github.com/anuraghazra/github-readme-stats)
-[![Jack's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jackkav&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackkav&include_all_commits=true&rank_icon=percentile&hide=stars&layout=compact&show=reviews,discussions_answered&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Jack's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jackkav&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jackkav/jackkav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
